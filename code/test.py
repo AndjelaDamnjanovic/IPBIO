@@ -17,7 +17,41 @@ def calculate_initial_hash(s: str, window_size: int, base: int = 31, mod: int = 
         current_hash = (current_hash * base + ord(s[i])) % mod
     return current_hash
 
-def extractSequences(testSet):
+def processResults(records, threshold, i, n, disorderPredictor):
+    if not records:
+        return
+    numInstances = records[0] + records[1] + records[2]
+    disorderPercentage = float(records[0]/numInstances)
+    intersectPercentage = float(records[1]/numInstances)
+    orderPercentage = float(records[2]/numInstances)
+
+    mostFrequent = max(disorderPercentage, intersectPercentage, orderPercentage)
+    if disorderPercentage == mostFrequent and disorderPercentage >= threshold:
+        for j in range(i, n):
+            disorderPredictor[j][0] += 1
+    elif orderPercentage == mostFrequent and orderPercentage >= threshold:
+        for j in range(i, n):
+            disorderPredictor[j][2] += 1
+    elif intersectPercentage == mostFrequent and intersectPercentage >= threshold:
+        for j in range(i, n):
+            disorderPredictor[j][1] += 1 
+
+def disorderToString(disorderPredictor):
+    res = ""
+    # BICE PROBLEMA AKO IMA VISE MAKSIMUMA, NISKA CE BITI DUZA NEGO STO TREBA
+    # NADJI NEKO RESENJE DA SE ODLUCUJE, NPR AKO JE BILO DISORDERA DO NJE, VRV
+    # JE I TU DISORDER...
+    for l in disorderPredictor:
+        maxElem = max(l[0], l[1], l[2])
+        if l[0] == maxElem:
+            res = res + "d"
+        elif l[1] == maxElem:
+            res = res + "i"
+        else:
+            res = res + "o"
+    return res
+
+def extractSequences(testSet, threshold, outfile):
     try:
         fasta_sequences = SeqIO.parse(open(testSet), 'fasta')
         conn = sqlite3.connect('../sequences/sequences2.db')
@@ -27,12 +61,12 @@ def extractSequences(testSet):
         sqlite_select_Query = "select sqlite_version();"
         cursor.execute(sqlite_select_Query)
         record = cursor.fetchall()
-
+        f = open(outfile, "w")
         for fasta in fasta_sequences:
             name, sequence = fasta.id, str(fasta.seq)
             if name == "DP00072":
                 continue
-
+            disorderPredictor = [[0, 0, 0] for i in range(len(sequence))]
             seq_len = len(sequence)
             print(name)
             for n in range(3, seq_len + 1):
@@ -40,27 +74,23 @@ def extractSequences(testSet):
                 if seq_len >= n:
                     current_hash = calculate_initial_hash(sequence[:n], n)
                     cursor.execute('SELECT d, i, o FROM sequenceMap WHERE SEQUENCE = ?', (current_hash,))
-                    records = cursor.fetchall()
-                    
-                    for row in records:
-                        print("d: ", row[0])
-                        print("i: ", row[1])
-                        print("o: ", row[2])
-                        print("\n")
-                    
+                    records = cursor.fetchone()
 
+                    processResults(records, threshold, 0, n, disorderPredictor)
+                    
                     # Sliding window with rolling hash
                     for i in range(1, seq_len - n + 1):
                         current_hash = update_rolling_hash(current_hash, sequence[i - 1], sequence[i + n - 1], n)
                         cursor.execute('SELECT d, i, o FROM sequenceMap WHERE SEQUENCE = ?', (current_hash,))
-                        records = cursor.fetchall()
+                        records = cursor.fetchone()
                         
-                        for row in records:
-                            print("d: ", row[0])
-                            print("i: ", row[1])
-                            print("o: ", row[2])
-                            print("\n")
-                
+                        processResults(records, threshold, i, n + i, disorderPredictor)
+            #print(disorderPredictor)
+            res = disorderToString(disorderPredictor) 
+            disorderPredictor.clear() 
+            f.write(name + " " + res + "\n")
+        f.close()          
+            
         cursor.close()  # Close the cursor explicitly
         print("Data has been successfully stored in the SQLite database.")
     except sqlite3.Error as error:
@@ -71,4 +101,4 @@ def extractSequences(testSet):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet1.fasta")
-extractSequences("../sequences/proba.fasta")
+extractSequences("../sequences/testSet1.fasta", 0.30, "../results/results2.txt")
