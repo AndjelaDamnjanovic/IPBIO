@@ -101,4 +101,4 @@ def extractSequences(testSet, threshold, outfile):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet1.fasta")
-extractSequences("../sequences/testSet1.fasta", 0.30, "../results/results2.txt")
+extractSequences("../testSets/testSet2.fasta", 0.30, "../results/results2.txt")
