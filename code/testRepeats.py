@@ -9,6 +9,7 @@ def processResults(records, threshold, i, n, disorderPredictor, f, id):
     if not records:
         return
     numInstances = records[0] + records[1] + records[2]
+    
     disorderPercentage = float((records[0] + records[1])/numInstances)
     #intersectPercentage = float(records[1]/numInstances)
     orderPercentage = float(records[2]/numInstances)
@@ -16,7 +17,7 @@ def processResults(records, threshold, i, n, disorderPredictor, f, id):
     # IMA DOSTA NISKI SA DISORDER % PREKO 80% 
     mostFrequent = max(disorderPercentage, orderPercentage)
     if disorderPercentage == mostFrequent and disorderPercentage >= threshold:
-        #f.write(id + ": " + str(i) + " - " + str(n) + "\n")
+        f.write(id + ": " + str(i) + " - " + str(n) + "\n")
         for j in range(i, n):
             disorderPredictor[j][0] += 1
     elif orderPercentage == mostFrequent and orderPercentage >= threshold:
@@ -64,9 +65,9 @@ def extractSequences(testSet, threshold, outfile):
                     processResults(records, threshold, i, n + i, disorderPredictor, f, name)
             
             #print(disorderPredictor)
-            res = disorderToString(disorderPredictor) 
-            disorderPredictor.clear() 
-            f.write(name + " " + res + "\n")
+            #res = disorderToString(disorderPredictor) 
+            #disorderPredictor.clear() 
+            #f.write(name + " " + res + "\n")
         f.close()          
             
         cursor.close()  # Close the cursor explicitly
@@ -79,4 +80,4 @@ def extractSequences(testSet, threshold, outfile):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet1.fasta")
-extractSequences("../testSets/testSet1.fasta", 0.80, "../results/probaRepeats1.txt")
+extractSequences("../testSets/testSet1.fasta", 0.50, "../results/probaRepeats1.txt")

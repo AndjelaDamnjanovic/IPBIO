@@ -1,1179 +1,1179 @@
-DP00007: Homo sapiens
-DP00013: Homo sapiens
-DP00016: Homo sapiens
-DP00018: Homo sapiens
-DP00023: Homo sapiens
-DP00028: Homo sapiens
-DP00033: Homo sapiens
-DP00040: Homo sapiens
-DP00062: Homo sapiens
-DP00070: Homo sapiens
-DP00073: Homo sapiens
-DP00075: Homo sapiens
-DP00078: Homo sapiens
-DP00085: Homo sapiens
-DP00099: Homo sapiens
-DP00119: Homo sapiens
-DP00123: Homo sapiens
-DP00130: Homo sapiens
-DP00134: Homo sapiens
-DP00138: Homo sapiens
-DP00141: Homo sapiens
-DP00156: Homo sapiens
-DP00162: Homo sapiens
-DP00168: Homo sapiens
-DP00173: Homo sapiens
-DP00177: Homo sapiens
-DP00196: Homo sapiens
-DP00200: Homo sapiens
-DP00223: Homo sapiens
-DP00229: Homo sapiens
-DP00230: Homo sapiens
-DP00231: Homo sapiens
-DP00238: Homo sapiens
-DP00240: Homo sapiens
-DP00241: Homo sapiens
-DP00260: Homo sapiens
-DP00262: Homo sapiens
-DP00282: Homo sapiens
-DP00287: Homo sapiens
-DP00304: Homo sapiens
-DP00308: Homo sapiens
-DP00309: Homo sapiens
-DP00311: Homo sapiens
-DP00314: Homo sapiens
-DP00319: Homo sapiens
-DP00321: Homo sapiens
-DP00322: Homo sapiens
-DP00323: Homo sapiens
-DP00324: Homo sapiens
-DP00332: Homo sapiens
-DP00333: Homo sapiens
-DP00334: Homo sapiens
-DP00339: Homo sapiens
-DP00343: Homo sapiens
-DP00356: Homo sapiens
-DP00358: Homo sapiens
-DP00363: Homo sapiens
-DP00364: Homo sapiens
-DP00372: Homo sapiens
-DP00378: Homo sapiens
-DP00385: Homo sapiens
-DP00393: Homo sapiens
-DP00418: Homo sapiens
-DP00428: Homo sapiens
-DP00437: Homo sapiens
-DP00443: Homo sapiens
-DP00445: Homo sapiens
-DP00448: Homo sapiens
-DP00457: Homo sapiens
-DP00466: Homo sapiens
-DP00468: Homo sapiens
-DP00472: Homo sapiens
-DP00485: Homo sapiens
-DP00486: Homo sapiens
-DP00506: Homo sapiens
-DP00510: Homo sapiens
-DP00517: Homo sapiens
-DP00521: Homo sapiens
-DP00537: Homo sapiens
-DP00549: Homo sapiens
-DP00551: Homo sapiens
-DP00554: Homo sapiens
-DP00555: Homo sapiens
-DP00565: Homo sapiens
-DP00581: Homo sapiens
-DP00592: Homo sapiens
-DP00608: Homo sapiens
-DP00611: Homo sapiens
-DP00616: Homo sapiens
-DP00621: Homo sapiens
-DP00641: Homo sapiens
-DP00652: Homo sapiens
-DP00666: Homo sapiens
-DP00670: Homo sapiens
-DP00672: Homo sapiens
-DP00678: Homo sapiens
-DP00683: Homo sapiens
-DP00694: Homo sapiens
-DP00696: Homo sapiens
-DP00706: Homo sapiens
-DP00709: Homo sapiens
-DP00718: Homo sapiens
-DP00736: Homo sapiens
-DP00747: Homo sapiens
-DP00748: Homo sapiens
-DP00775: Homo sapiens
-DP00793: Homo sapiens
-DP00794: Homo sapiens
-DP00796: Homo sapiens
-DP00839: Homo sapiens
-DP00841: Homo sapiens
-DP00846: Homo sapiens
-DP00864: Homo sapiens
-DP00865: Homo sapiens
-DP00887: Homo sapiens
-DP00907: Homo sapiens
-DP00912: Homo sapiens
-DP00917: Homo sapiens
-DP00926: Homo sapiens
-DP00930: Homo sapiens
-DP00934: Homo sapiens
-DP00937: Homo sapiens
-DP00949: Homo sapiens
-DP00951: Homo sapiens
-DP00959: Homo sapiens
-DP00969: Homo sapiens
-DP01023: Homo sapiens
-DP01024: Homo sapiens
-DP01054: Homo sapiens
-DP01063: Homo sapiens
-DP01068: Homo sapiens
-DP01070: Homo sapiens
-DP01097: Homo sapiens
-DP01098: Homo sapiens
-DP01099: Homo sapiens
-DP01100: Homo sapiens
-DP01102: Homo sapiens
-DP01103: Homo sapiens
-DP01106: Homo sapiens
-DP01108: Homo sapiens
-DP01110: Homo sapiens
-DP01111: Homo sapiens
-DP01114: Homo sapiens
-DP01115: Homo sapiens
-DP01116: Homo sapiens
-DP01117: Homo sapiens
-DP01118: Homo sapiens
-DP01123: Homo sapiens
-DP01124: Homo sapiens
-DP01128: Homo sapiens
-DP01131: Homo sapiens
-DP01132: Homo sapiens
-DP01133: Homo sapiens
-DP01134: Homo sapiens
-DP01137: Homo sapiens
-DP01149: Homo sapiens
-DP01156: Homo sapiens
-DP01158: Homo sapiens
-DP01159: Homo sapiens
-DP01161: Homo sapiens
-DP01162: Homo sapiens
-DP01163: Homo sapiens
-DP01165: Homo sapiens
-DP01170: Homo sapiens
-DP01171: Homo sapiens
-DP01172: Homo sapiens
-DP01173: Homo sapiens
-DP01174: Homo sapiens
-DP01203: Homo sapiens
-DP01206: Homo sapiens
-DP01224: Homo sapiens
-DP01228: Homo sapiens
-DP01236: Homo sapiens
-DP01239: Homo sapiens
-DP01244: Homo sapiens
-DP01248: Homo sapiens
-DP01253: Homo sapiens
-DP01259: Homo sapiens
-DP01262: Homo sapiens
-DP01269: Homo sapiens
-DP01271: Homo sapiens
-DP01278: Homo sapiens
-DP01279: Homo sapiens
-DP01280: Homo sapiens
-DP01284: Homo sapiens
-DP01288: Homo sapiens
-DP01292: Homo sapiens
-DP01303: Homo sapiens
-DP01306: Homo sapiens
-DP01310: Homo sapiens
-DP01311: Homo sapiens
-DP01312: Homo sapiens
-DP01317: Homo sapiens
-DP01324: Homo sapiens
-DP01326: Homo sapiens
-DP01333: Homo sapiens
-DP01347: Homo sapiens
-DP01361: Homo sapiens
-DP01364: Homo sapiens
-DP01396: Homo sapiens
-DP01400: Homo sapiens
-DP01404: Homo sapiens
-DP01425: Homo sapiens
-DP01426: Homo sapiens
-DP01434: Homo sapiens
-DP01435: Homo sapiens
-DP01441: Homo sapiens
-DP01445: Homo sapiens
-DP01446: Homo sapiens
-DP01447: Homo sapiens
-DP01450: Homo sapiens
-DP01451: Homo sapiens
-DP01453: Homo sapiens
-DP01454: Homo sapiens
-DP01455: Homo sapiens
-DP01456: Homo sapiens
-DP01473: Homo sapiens
-DP01480: Homo sapiens
-DP01484: Homo sapiens
-DP01486: Homo sapiens
-DP01487: Homo sapiens
-DP01489: Homo sapiens
-DP01491: Homo sapiens
-DP01493: Homo sapiens
-DP01506: Homo sapiens
-DP01507: Homo sapiens
-DP01524: Homo sapiens
-DP01526: Homo sapiens
-DP01533: Homo sapiens
-DP01537: Homo sapiens
-DP01551: Homo sapiens
-DP01556: Homo sapiens
-DP01560: Homo sapiens
-DP01561: Homo sapiens
-DP01564: Homo sapiens
-DP01580: Homo sapiens
-DP01588: Homo sapiens
-DP01590: Homo sapiens
-DP01598: Homo sapiens
-DP01602: Homo sapiens
-DP01603: Homo sapiens
-DP01608: Homo sapiens
-DP01619: Homo sapiens
-DP01622: Homo sapiens
-DP01637: Homo sapiens
-DP01640: Homo sapiens
-DP01641: Homo sapiens
-DP01643: Homo sapiens
-DP01644: Homo sapiens
-DP01646: Homo sapiens
-DP01654: Homo sapiens
-DP01662: Homo sapiens
-DP01668: Homo sapiens
-DP01677: Homo sapiens
-DP01700: Homo sapiens
-DP01701: Homo sapiens
-DP01704: Homo sapiens
-DP01705: Homo sapiens
-DP01720: Homo sapiens
-DP01736: Homo sapiens
-DP01738: Homo sapiens
-DP01748: Homo sapiens
-DP01750: Homo sapiens
-DP01757: Homo sapiens
-DP01760: Homo sapiens
-DP01768: Homo sapiens
-DP01772: Homo sapiens
-DP01773: Homo sapiens
-DP01781: Homo sapiens
-DP01782: Homo sapiens
-DP01788: Homo sapiens
-DP01795: Homo sapiens
-DP01804: Homo sapiens
-DP01835: Homo sapiens
-DP01836: Homo sapiens
-DP01841: Homo sapiens
-DP01842: Homo sapiens
-DP01844: Homo sapiens
-DP01845: Homo sapiens
-DP01848: Homo sapiens
-DP01855: Homo sapiens
-DP01857: Homo sapiens
-DP01863: Homo sapiens
-DP01869: Homo sapiens
-DP01872: Homo sapiens
-DP01873: Homo sapiens
-DP01874: Homo sapiens
-DP01877: Homo sapiens
-DP01878: Homo sapiens
-DP01880: Homo sapiens
-DP01883: Homo sapiens
-DP01884: Homo sapiens
-DP01898: Homo sapiens
-DP01907: Homo sapiens
-DP01914: Homo sapiens
-DP01921: Homo sapiens
-DP01925: Homo sapiens
-DP01935: Homo sapiens
-DP01938: Homo sapiens
-DP01942: Homo sapiens
-DP01951: Homo sapiens
-DP01972: Homo sapiens
-DP01976: Homo sapiens
-DP01985: Homo sapiens
-DP02000: Homo sapiens
-DP02009: Homo sapiens
-DP02013: Homo sapiens
-DP02034: Homo sapiens
-DP02069: Homo sapiens
-DP02072: Homo sapiens
-DP02078: Homo sapiens
-DP02094: Homo sapiens
-DP02100: Homo sapiens
-DP02142: Homo sapiens
-DP02148: Homo sapiens
-DP02163: Homo sapiens
-DP02170: Homo sapiens
-DP02171: Homo sapiens
-DP02173: Homo sapiens
-DP02191: Homo sapiens
-DP02192: Homo sapiens
-DP02207: Homo sapiens
-DP02210: Homo sapiens
-DP02224: Homo sapiens
-DP02226: Homo sapiens
-DP02234: Homo sapiens
-DP02247: Homo sapiens
-DP02251: Homo sapiens
-DP02254: Homo sapiens
-DP02267: Homo sapiens
-DP02269: Homo sapiens
-DP02290: Homo sapiens
-DP02292: Homo sapiens
-DP02294: Homo sapiens
-DP02301: Homo sapiens
-DP02302: Homo sapiens
-DP02303: Homo sapiens
-DP02309: Homo sapiens
-DP02327: Homo sapiens
-DP02332: Homo sapiens
-DP02333: Homo sapiens
-DP02346: Homo sapiens
-DP02348: Homo sapiens
-DP02349: Homo sapiens
-DP02361: Homo sapiens
-DP02365: Homo sapiens
-DP02368: Homo sapiens
-DP02381: Homo sapiens
-DP02393: Homo sapiens
-DP02398: Homo sapiens
-DP02399: Homo sapiens
-DP02404: Homo sapiens
-DP02405: Homo sapiens
-DP02408: Homo sapiens
-DP02413: Homo sapiens
-DP02415: Homo sapiens
-DP02418: Homo sapiens
-DP02420: Homo sapiens
-DP02427: Homo sapiens
-DP02428: Homo sapiens
-DP02431: Homo sapiens
-DP02445: Homo sapiens
-DP02446: Homo sapiens
-DP02449: Homo sapiens
-DP02452: Homo sapiens
-DP02455: Homo sapiens
-DP02458: Homo sapiens
-DP02467: Homo sapiens
-DP02471: Homo sapiens
-DP02475: Homo sapiens
-DP02477: Homo sapiens
-DP02523: Homo sapiens
-DP02531: Homo sapiens
-DP02532: Homo sapiens
-DP02543: Homo sapiens
-DP02545: Homo sapiens
-DP02546: Homo sapiens
-DP02547: Homo sapiens
-DP02551: Homo sapiens
-DP02555: Homo sapiens
-DP02558: Homo sapiens
-DP02559: Homo sapiens
-DP02567: Homo sapiens
-DP02571: Homo sapiens
-DP02585: Homo sapiens
-DP02591: Homo sapiens
-DP02595: Homo sapiens
-DP02599: Homo sapiens
-DP02604: Homo sapiens
-DP02605: Homo sapiens
-DP02607: Homo sapiens
-DP02609: Homo sapiens
-DP02615: Homo sapiens
-DP02620: Homo sapiens
-DP02627: Homo sapiens
-DP02628: Homo sapiens
-DP02630: Homo sapiens
-DP02632: Homo sapiens
-DP02637: Homo sapiens
-DP02647: Homo sapiens
-DP02649: Homo sapiens
-DP02656: Homo sapiens
-DP02661: Homo sapiens
-DP02665: Homo sapiens
-DP02670: Homo sapiens
-DP02673: Homo sapiens
-DP02674: Homo sapiens
-DP02675: Homo sapiens
-DP02676: Homo sapiens
-DP02680: Homo sapiens
-DP02692: Homo sapiens
-DP02694: Homo sapiens
-DP02697: Homo sapiens
-DP02699: Homo sapiens
-DP02702: Homo sapiens
-DP02703: Homo sapiens
-DP02704: Homo sapiens
-DP02705: Homo sapiens
-DP02706: Homo sapiens
-DP02712: Homo sapiens
-DP02713: Homo sapiens
-DP02724: Homo sapiens
-DP02727: Homo sapiens
-DP02728: Homo sapiens
-DP02735: Homo sapiens
-DP02737: Homo sapiens
-DP02742: Homo sapiens
-DP02744: Homo sapiens
-DP02747: Homo sapiens
-DP02748: Homo sapiens
-DP02753: Homo sapiens
-DP02757: Homo sapiens
-DP02758: Homo sapiens
-DP02764: Homo sapiens
-DP02765: Homo sapiens
-DP02770: Homo sapiens
-DP02781: Homo sapiens
-DP02782: Homo sapiens
-DP02783: Homo sapiens
-DP02798: Homo sapiens
-DP02803: Homo sapiens
-DP02812: Homo sapiens
-DP02825: Homo sapiens
-DP02829: Homo sapiens
-DP02832: Homo sapiens
-DP02834: Homo sapiens
-DP02835: Homo sapiens
-DP02850: Homo sapiens
-DP02851: Homo sapiens
-DP02854: Homo sapiens
-DP02855: Homo sapiens
-DP02858: Homo sapiens
-DP02860: Homo sapiens
-DP02869: Homo sapiens
-DP02881: Homo sapiens
-DP02885: Homo sapiens
-DP02894: Homo sapiens
-DP02895: Homo sapiens
-DP02904: Homo sapiens
-DP02911: Homo sapiens
-DP02915: Homo sapiens
-DP02918: Homo sapiens
-DP02921: Homo sapiens
-DP02922: Homo sapiens
-DP02930: Homo sapiens
-DP02957: Homo sapiens
-DP02971: Homo sapiens
-DP02975: Homo sapiens
-DP02976: Homo sapiens
-DP02978: Homo sapiens
-DP02981: Homo sapiens
-DP03004: Homo sapiens
-DP03005: Homo sapiens
-DP03006: Homo sapiens
-DP03010: Homo sapiens
-DP03011: Homo sapiens
-DP03012: Homo sapiens
-DP03016: Homo sapiens
-DP03035: Homo sapiens
-DP03039: Homo sapiens
-DP03059: Homo sapiens
-DP03061: Homo sapiens
-DP03063: Homo sapiens
-DP03070: Homo sapiens
-DP03071: Homo sapiens
-DP03072: Homo sapiens
-DP03074: Homo sapiens
-DP03075: Homo sapiens
-DP03081: Homo sapiens
-DP03088: Homo sapiens
-DP03092: Homo sapiens
-DP03098: Homo sapiens
-DP03100: Homo sapiens
-DP03101: Homo sapiens
-DP03104: Homo sapiens
-DP03108: Homo sapiens
-DP03109: Homo sapiens
-DP03113: Homo sapiens
-DP03114: Homo sapiens
-DP03115: Homo sapiens
-DP03116: Homo sapiens
-DP03118: Homo sapiens
-DP03120: Homo sapiens
-DP03123: Homo sapiens
-DP03124: Homo sapiens
-DP03125: Homo sapiens
-DP03134: Homo sapiens
-DP03135: Homo sapiens
-DP03142: Homo sapiens
-DP03148: Homo sapiens
-DP03149: Homo sapiens
-DP03150: Homo sapiens
-DP03151: Homo sapiens
-DP03152: Homo sapiens
-DP03153: Homo sapiens
-DP03161: Homo sapiens
-DP03163: Homo sapiens
-DP03164: Homo sapiens
-DP03166: Homo sapiens
-DP03168: Homo sapiens
-DP03171: Homo sapiens
-DP03172: Homo sapiens
-DP03173: Homo sapiens
-DP03179: Homo sapiens
-DP03185: Homo sapiens
-DP03186: Homo sapiens
-DP03187: Homo sapiens
-DP03190: Homo sapiens
-DP03192: Homo sapiens
-DP03195: Homo sapiens
-DP03196: Homo sapiens
-DP03201: Homo sapiens
-DP03204: Homo sapiens
-DP03205: Homo sapiens
-DP03209: Homo sapiens
-DP03211: Homo sapiens
-DP03214: Homo sapiens
-DP03216: Homo sapiens
-DP03223: Homo sapiens
-DP03232: Homo sapiens
-DP03233: Homo sapiens
-DP03234: Homo sapiens
-DP03235: Homo sapiens
-DP03236: Homo sapiens
-DP03237: Homo sapiens
-DP03242: Homo sapiens
-DP03243: Homo sapiens
-DP03245: Homo sapiens
-DP03246: Homo sapiens
-DP03248: Homo sapiens
-DP03249: Homo sapiens
-DP03251: Homo sapiens
-DP03254: Homo sapiens
-DP03255: Homo sapiens
-DP03257: Homo sapiens
-DP03271: Homo sapiens
-DP03272: Homo sapiens
-DP03273: Homo sapiens
-DP03274: Homo sapiens
-DP03275: Homo sapiens
-DP03278: Homo sapiens
-DP03279: Homo sapiens
-DP03281: Homo sapiens
-DP03291: Homo sapiens
-DP03297: Homo sapiens
-DP03299: Homo sapiens
-DP03301: Homo sapiens
-DP03303: Homo sapiens
-DP03304: Homo sapiens
-DP03306: Homo sapiens
-DP03313: Homo sapiens
-DP03343: Homo sapiens
-DP03345: Homo sapiens
-DP03348: Homo sapiens
-DP03358: Homo sapiens
-DP03364: Homo sapiens
-DP03378: Homo sapiens
-DP03382: Homo sapiens
-DP03383: Homo sapiens
-DP03385: Homo sapiens
-DP03387: Homo sapiens
-DP03389: Homo sapiens
-DP03394: Homo sapiens
-DP03399: Homo sapiens
-DP03400: Homo sapiens
-DP03404: Homo sapiens
-DP03407: Homo sapiens
-DP03417: Homo sapiens
-DP03424: Homo sapiens
-DP03427: Homo sapiens
-DP03444: Homo sapiens
-DP03446: Homo sapiens
-DP03447: Homo sapiens
-DP03448: Homo sapiens
-DP03453: Homo sapiens
-DP03454: Homo sapiens
-DP03459: Homo sapiens
-DP03487: Homo sapiens
-DP03488: Homo sapiens
-DP03499: Homo sapiens
-DP03514: Homo sapiens
-DP03515: Homo sapiens
-DP03531: Homo sapiens
-DP03532: Homo sapiens
-DP03554: Homo sapiens
-DP03556: Homo sapiens
-DP03588: Homo sapiens
-DP03594: Homo sapiens
-DP03624: Homo sapiens
-DP03626: Homo sapiens
-DP03635: Homo sapiens
-DP03637: Homo sapiens
-DP03645: Homo sapiens
-DP03649: Homo sapiens
-DP03654: Homo sapiens
-DP03659: Homo sapiens
-DP03660: Homo sapiens
-DP03661: Homo sapiens
-DP03666: Homo sapiens
-DP03669: Homo sapiens
-DP03670: Homo sapiens
-DP03680: Homo sapiens
-DP03681: Homo sapiens
-DP03687: Homo sapiens
-DP03692: Homo sapiens
-DP03693: Homo sapiens
-DP03700: Homo sapiens
-DP03701: Homo sapiens
-DP03703: Homo sapiens
-DP03704: Homo sapiens
-DP03706: Homo sapiens
-DP03713: Homo sapiens
-DP03719: Homo sapiens
-DP03730: Homo sapiens
-DP03733: Homo sapiens
-DP03734: Homo sapiens
-DP03737: Homo sapiens
-DP03739: Homo sapiens
-DP03743: Homo sapiens
-DP03755: Homo sapiens
-DP03805: Homo sapiens
-DP03811: Homo sapiens
-DP03816: Homo sapiens
-DP03817: Homo sapiens
-DP03820: Homo sapiens
-DP03821: Homo sapiens
-DP03823: Homo sapiens
-DP03830: Homo sapiens
-DP03832: Homo sapiens
-DP03835: Homo sapiens
-DP03836: Homo sapiens
-DP03837: Homo sapiens
-DP03838: Homo sapiens
-DP03839: Homo sapiens
-DP03841: Homo sapiens
-DP03842: Homo sapiens
-DP03843: Homo sapiens
-DP03847: Homo sapiens
-DP03848: Homo sapiens
-DP03849: Homo sapiens
-DP03854: Homo sapiens
-DP03860: Homo sapiens
-DP03861: Homo sapiens
-DP03862: Homo sapiens
-DP03864: Homo sapiens
-DP03865: Homo sapiens
-DP03867: Homo sapiens
-DP03868: Homo sapiens
-DP03869: Homo sapiens
-DP03872: Homo sapiens
-DP03874: Homo sapiens
-DP03875: Homo sapiens
-DP03876: Homo sapiens
-DP03878: Homo sapiens
-DP03884: Homo sapiens
-DP03889: Homo sapiens
-DP03890: Homo sapiens
-DP03891: Homo sapiens
-DP03892: Homo sapiens
-DP03894: Homo sapiens
-DP03896: Homo sapiens
-DP03917: Homo sapiens
-DP03919: Homo sapiens
-DP03922: Homo sapiens
-DP03926: Homo sapiens
-DP03944: Homo sapiens
-DP03945: Homo sapiens
-DP03955: Homo sapiens
-DP03956: Homo sapiens
-DP03958: Homo sapiens
-DP03959: Homo sapiens
-DP03960: Homo sapiens
-DP03962: Homo sapiens
-DP03963: Homo sapiens
-DP03965: Homo sapiens
-DP03966: Homo sapiens
-DP03968: Homo sapiens
-DP03969: Homo sapiens
-DP03970: Homo sapiens
-DP03971: Homo sapiens
-DP03975: Homo sapiens
-DP03977: Homo sapiens
-DP03991: Homo sapiens
-DP04067: Homo sapiens
-DP04070: Homo sapiens
-DP04074: Homo sapiens
-DP04076: Homo sapiens
-DP04077: Homo sapiens
-DP04081: Homo sapiens
-DP04082: Homo sapiens
-DP04086: Homo sapiens
-DP04093: Homo sapiens
-DP04095: Homo sapiens
-DP04100: Homo sapiens
-DP04107: Homo sapiens
-DP04108: Homo sapiens
-DP04109: Homo sapiens
-DP04111: Homo sapiens
-DP04117: Homo sapiens
-DP04119: Homo sapiens
-DP04123: Homo sapiens
-DP04135: Homo sapiens
-DP04137: Homo sapiens
-DP00111: Mus musculus
-DP00142: Mus musculus
-DP00181: Mus musculus
-DP00291: Mus musculus
-DP00335: Mus musculus
-DP00340: Mus musculus
-DP00341: Mus musculus
-DP00384: Mus musculus
-DP00397: Mus musculus
-DP00435: Mus musculus
-DP00446: Mus musculus
-DP00491: Mus musculus
-DP00541: Mus musculus
-DP00564: Mus musculus
-DP00587: Mus musculus
-DP00645: Mus musculus
-DP00646: Mus musculus
-DP00655: Mus musculus
-DP00708: Mus musculus
-DP00734: Mus musculus
-DP00742: Mus musculus
-DP00836: Mus musculus
-DP00968: Mus musculus
-DP00974: Mus musculus
-DP01101: Mus musculus
-DP01183: Mus musculus
-DP01304: Mus musculus
-DP01315: Mus musculus
-DP01316: Mus musculus
-DP01397: Mus musculus
-DP01492: Mus musculus
-DP01541: Mus musculus
-DP01548: Mus musculus
-DP01562: Mus musculus
-DP01563: Mus musculus
-DP01578: Mus musculus
-DP01594: Mus musculus
-DP01645: Mus musculus
-DP01667: Mus musculus
-DP01752: Mus musculus
-DP01774: Mus musculus
-DP01794: Mus musculus
-DP01879: Mus musculus
-DP01944: Mus musculus
-DP01993: Mus musculus
-DP02258: Mus musculus
-DP02296: Mus musculus
-DP02342: Mus musculus
-DP02369: Mus musculus
-DP02371: Mus musculus
-DP02376: Mus musculus
-DP02387: Mus musculus
-DP02412: Mus musculus
-DP02423: Mus musculus
-DP02478: Mus musculus
-DP02517: Mus musculus
-DP02534: Mus musculus
-DP02573: Mus musculus
-DP02579: Mus musculus
-DP02586: Mus musculus
-DP02593: Mus musculus
-DP02613: Mus musculus
-DP02621: Mus musculus
-DP02625: Mus musculus
-DP02626: Mus musculus
-DP02635: Mus musculus
-DP02636: Mus musculus
-DP02638: Mus musculus
-DP02672: Mus musculus
-DP02679: Mus musculus
-DP02681: Mus musculus
-DP02683: Mus musculus
-DP02756: Mus musculus
-DP02790: Mus musculus
-DP02791: Mus musculus
-DP02792: Mus musculus
-DP02800: Mus musculus
-DP02802: Mus musculus
-DP02805: Mus musculus
-DP02811: Mus musculus
-DP02817: Mus musculus
-DP02819: Mus musculus
-DP02820: Mus musculus
-DP02853: Mus musculus
-DP02874: Mus musculus
-DP02896: Mus musculus
-DP02898: Mus musculus
-DP03007: Mus musculus
-DP03014: Mus musculus
-DP03067: Mus musculus
-DP03127: Mus musculus
-DP03156: Mus musculus
-DP03174: Mus musculus
-DP03177: Mus musculus
-DP03197: Mus musculus
-DP03277: Mus musculus
-DP03305: Mus musculus
-DP03310: Mus musculus
-DP03368: Mus musculus
-DP03411: Mus musculus
-DP03420: Mus musculus
-DP03625: Mus musculus
-DP03695: Mus musculus
-DP03735: Mus musculus
-DP00474: Arabidopsis thaliana
-DP00606: Arabidopsis thaliana
-DP00609: Arabidopsis thaliana
-DP00654: Arabidopsis thaliana
-DP00662: Arabidopsis thaliana
-DP00667: Arabidopsis thaliana
-DP00689: Arabidopsis thaliana
-DP00916: Arabidopsis thaliana
-DP01057: Arabidopsis thaliana
-DP01085: Arabidopsis thaliana
-DP01121: Arabidopsis thaliana
-DP01299: Arabidopsis thaliana
-DP01300: Arabidopsis thaliana
-DP01467: Arabidopsis thaliana
-DP01543: Arabidopsis thaliana
-DP01545: Arabidopsis thaliana
-DP01858: Arabidopsis thaliana
-DP02066: Arabidopsis thaliana
-DP02209: Arabidopsis thaliana
-DP02380: Arabidopsis thaliana
-DP02392: Arabidopsis thaliana
-DP02550: Arabidopsis thaliana
-DP02575: Arabidopsis thaliana
-DP02576: Arabidopsis thaliana
-DP02577: Arabidopsis thaliana
-DP02597: Arabidopsis thaliana
-DP02631: Arabidopsis thaliana
-DP02640: Arabidopsis thaliana
-DP02641: Arabidopsis thaliana
-DP02642: Arabidopsis thaliana
-DP02644: Arabidopsis thaliana
-DP02696: Arabidopsis thaliana
-DP02726: Arabidopsis thaliana
-DP02919: Arabidopsis thaliana
-DP02920: Arabidopsis thaliana
-DP02966: Arabidopsis thaliana
-DP02969: Arabidopsis thaliana
-DP03093: Arabidopsis thaliana
-DP03096: Arabidopsis thaliana
-DP03110: Arabidopsis thaliana
-DP03136: Arabidopsis thaliana
-DP03137: Arabidopsis thaliana
-DP03139: Arabidopsis thaliana
-DP03263: Arabidopsis thaliana
-DP03265: Arabidopsis thaliana
-DP03266: Arabidopsis thaliana
-DP03268: Arabidopsis thaliana
-DP03270: Arabidopsis thaliana
-DP03282: Arabidopsis thaliana
-DP03285: Arabidopsis thaliana
-DP03325: Arabidopsis thaliana
-DP03648: Arabidopsis thaliana
-DP03652: Arabidopsis thaliana
-DP03653: Arabidopsis thaliana
-DP03674: Arabidopsis thaliana
-DP03675: Arabidopsis thaliana
-DP01113: Caenorhabditis elegans
-DP01407: Caenorhabditis elegans
-DP01436: Caenorhabditis elegans
-DP01973: Caenorhabditis elegans
-DP02025: Caenorhabditis elegans
-DP02377: Caenorhabditis elegans
-DP02378: Caenorhabditis elegans
-DP02799: Caenorhabditis elegans
-DP02982: Caenorhabditis elegans
-DP02988: Caenorhabditis elegans
-DP02989: Caenorhabditis elegans
-DP02990: Caenorhabditis elegans
-DP02991: Caenorhabditis elegans
-DP02999: Caenorhabditis elegans
-DP03049: Caenorhabditis elegans
-DP03050: Caenorhabditis elegans
-DP03054: Caenorhabditis elegans
-DP03057: Caenorhabditis elegans
-DP03090: Caenorhabditis elegans
-DP03102: Caenorhabditis elegans
-DP03107: Caenorhabditis elegans
-DP03217: Caenorhabditis elegans
-DP03218: Caenorhabditis elegans
-DP03219: Caenorhabditis elegans
-DP03318: Caenorhabditis elegans
-DP03319: Caenorhabditis elegans
-DP03322: Caenorhabditis elegans
-DP03334: Caenorhabditis elegans
-DP03340: Caenorhabditis elegans
-DP03472: Caenorhabditis elegans
-DP00081: Drosophila melanogaster
-DP00269: Drosophila melanogaster
-DP00344: Drosophila melanogaster
-DP00346: Drosophila melanogaster
-DP00605: Drosophila melanogaster
-DP00623: Drosophila melanogaster
-DP00721: Drosophila melanogaster
-DP00811: Drosophila melanogaster
-DP01122: Drosophila melanogaster
-DP01250: Drosophila melanogaster
-DP01433: Drosophila melanogaster
-DP01494: Drosophila melanogaster
-DP01495: Drosophila melanogaster
-DP01497: Drosophila melanogaster
-DP01546: Drosophila melanogaster
-DP01870: Drosophila melanogaster
-DP02149: Drosophila melanogaster
-DP02312: Drosophila melanogaster
-DP02384: Drosophila melanogaster
-DP02460: Drosophila melanogaster
-DP02556: Drosophila melanogaster
-DP02662: Drosophila melanogaster
-DP02711: Drosophila melanogaster
-DP02763: Drosophila melanogaster
-DP02836: Drosophila melanogaster
-DP02866: Drosophila melanogaster
-DP02890: Drosophila melanogaster
-DP03066: Drosophila melanogaster
-DP03083: Drosophila melanogaster
-DP03483: Drosophila melanogaster
-DP03708: Drosophila melanogaster
-DP03744: Drosophila melanogaster
-DP04061: Drosophila melanogaster
-DP00089: Escherichia coli (strain K12)
-DP00103: Escherichia coli (strain K12)
-DP00107: Escherichia coli (strain K12)
-DP00147: Escherichia coli (strain K12)
-DP00161: Escherichia coli (strain K12)
-DP00194: Escherichia coli (strain K12)
-DP00197: Escherichia coli (strain K12)
-DP00207: Escherichia coli (strain K12)
-DP00299: Escherichia coli (strain K12)
-DP00349: Escherichia coli (strain K12)
-DP00377: Escherichia coli (strain K12)
-DP00422: Escherichia coli (strain K12)
-DP00429: Escherichia coli (strain K12)
-DP00516: Escherichia coli (strain K12)
-DP00600: Escherichia coli (strain K12)
-DP00626: Escherichia coli (strain K12)
-DP00766: Escherichia coli (strain K12)
-DP00790: Escherichia coli (strain K12)
-DP00896: Escherichia coli (strain K12)
-DP00970: Escherichia coli (strain K12)
-DP00991: Escherichia coli (strain K12)
-DP01050: Escherichia coli (strain K12)
-DP01177: Escherichia coli (strain K12)
-DP01291: Escherichia coli (strain K12)
-DP01339: Escherichia coli (strain K12)
-DP01488: Escherichia coli (strain K12)
-DP01650: Escherichia coli (strain K12)
-DP01735: Escherichia coli (strain K12)
-DP01740: Escherichia coli (strain K12)
-DP01881: Escherichia coli (strain K12)
-DP01920: Escherichia coli (strain K12)
-DP01965: Escherichia coli (strain K12)
-DP02011: Escherichia coli (strain K12)
-DP02127: Escherichia coli (strain K12)
-DP02169: Escherichia coli (strain K12)
-DP02197: Escherichia coli (strain K12)
-DP02201: Escherichia coli (strain K12)
-DP02271: Escherichia coli (strain K12)
-DP02484: Escherichia coli (strain K12)
-DP02537: Escherichia coli (strain K12)
-DP02548: Escherichia coli (strain K12)
-DP02700: Escherichia coli (strain K12)
-DP02715: Escherichia coli (strain K12)
-DP02716: Escherichia coli (strain K12)
-DP02740: Escherichia coli (strain K12)
-DP02750: Escherichia coli (strain K12)
-DP02760: Escherichia coli (strain K12)
-DP02787: Escherichia coli (strain K12)
-DP02827: Escherichia coli (strain K12)
-DP02899: Escherichia coli (strain K12)
-DP02900: Escherichia coli (strain K12)
-DP02923: Escherichia coli (strain K12)
-DP02985: Escherichia coli (strain K12)
-DP03060: Escherichia coli (strain K12)
-DP03091: Escherichia coli (strain K12)
-DP03193: Escherichia coli (strain K12)
-DP03213: Escherichia coli (strain K12)
-DP03240: Escherichia coli (strain K12)
-DP03289: Escherichia coli (strain K12)
-DP03316: Escherichia coli (strain K12)
-DP03326: Escherichia coli (strain K12)
-DP03329: Escherichia coli (strain K12)
-DP03331: Escherichia coli (strain K12)
-DP03333: Escherichia coli (strain K12)
-DP03337: Escherichia coli (strain K12)
-DP03341: Escherichia coli (strain K12)
-DP03406: Escherichia coli (strain K12)
-DP03440: Escherichia coli (strain K12)
-DP03445: Escherichia coli (strain K12)
-DP03449: Escherichia coli (strain K12)
-DP03458: Escherichia coli (strain K12)
-DP03495: Escherichia coli (strain K12)
-DP03501: Escherichia coli (strain K12)
-DP03631: Escherichia coli (strain K12)
-DP03662: Escherichia coli (strain K12)
-DP03852: Escherichia coli (strain K12)
-DP00031: Rattus norvegicus
-DP00049: Rattus norvegicus
-DP00068: Rattus norvegicus
-DP00094: Rattus norvegicus
-DP00136: Rattus norvegicus
-DP00251: Rattus norvegicus
-DP00455: Rattus norvegicus
-DP00463: Rattus norvegicus
-DP00490: Rattus norvegicus
-DP00527: Rattus norvegicus
-DP00620: Rattus norvegicus
-DP00622: Rattus norvegicus
-DP00940: Rattus norvegicus
-DP01083: Rattus norvegicus
-DP01139: Rattus norvegicus
-DP01141: Rattus norvegicus
-DP01202: Rattus norvegicus
-DP01499: Rattus norvegicus
-DP01501: Rattus norvegicus
-DP01555: Rattus norvegicus
-DP01557: Rattus norvegicus
-DP01851: Rattus norvegicus
-DP01887: Rattus norvegicus
-DP01937: Rattus norvegicus
-DP01958: Rattus norvegicus
-DP01994: Rattus norvegicus
-DP02535: Rattus norvegicus
-DP02617: Rattus norvegicus
-DP02624: Rattus norvegicus
-DP02646: Rattus norvegicus
-DP02653: Rattus norvegicus
-DP02657: Rattus norvegicus
-DP02739: Rattus norvegicus
-DP02741: Rattus norvegicus
-DP02793: Rattus norvegicus
-DP02887: Rattus norvegicus
-DP02986: Rattus norvegicus
-DP03052: Rattus norvegicus
-DP03080: Rattus norvegicus
-DP03129: Rattus norvegicus
-DP03227: Rattus norvegicus
-DP03347: Rattus norvegicus
-DP03354: Rattus norvegicus
-DP03477: Rattus norvegicus
-DP03492: Rattus norvegicus
-DP03507: Rattus norvegicus
-DP00082: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00104: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00135: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00163: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00164: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00179: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00256: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00277: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00398: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00432: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00475: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00482: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00533: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00557: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00625: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00687: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00705: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00771: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00818: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00853: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00874: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00958: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP00995: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01014: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01077: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01078: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01079: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01136: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01185: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01195: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01196: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01237: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01243: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01330: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01401: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01430: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01485: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01502: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01503: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01511: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01513: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01516: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01579: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01584: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01599: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01604: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01606: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01611: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01628: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01629: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01775: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01825: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP01867: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02050: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02055: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02073: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02097: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02124: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02144: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02145: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02155: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02157: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02158: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02159: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02195: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02220: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02227: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02249: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02264: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02326: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02355: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02395: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02448: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02464: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02466: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02470: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02474: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02476: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02480: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02481: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02513: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02527: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02544: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02671: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02721: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02722: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02736: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02752: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02769: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02784: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02806: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02809: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02847: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02848: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP02908: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03226: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03494: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03496: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03548: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03591: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03595: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03597: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03620: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03621: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03633: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03684: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03689: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03715: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03716: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03717: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
-DP03718: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00007	Homo sapiens
+DP00013	Homo sapiens
+DP00016	Homo sapiens
+DP00018	Homo sapiens
+DP00023	Homo sapiens
+DP00028	Homo sapiens
+DP00033	Homo sapiens
+DP00040	Homo sapiens
+DP00062	Homo sapiens
+DP00070	Homo sapiens
+DP00073	Homo sapiens
+DP00075	Homo sapiens
+DP00078	Homo sapiens
+DP00085	Homo sapiens
+DP00099	Homo sapiens
+DP00119	Homo sapiens
+DP00123	Homo sapiens
+DP00130	Homo sapiens
+DP00134	Homo sapiens
+DP00138	Homo sapiens
+DP00141	Homo sapiens
+DP00156	Homo sapiens
+DP00162	Homo sapiens
+DP00168	Homo sapiens
+DP00173	Homo sapiens
+DP00177	Homo sapiens
+DP00196	Homo sapiens
+DP00200	Homo sapiens
+DP00223	Homo sapiens
+DP00229	Homo sapiens
+DP00230	Homo sapiens
+DP00231	Homo sapiens
+DP00238	Homo sapiens
+DP00240	Homo sapiens
+DP00241	Homo sapiens
+DP00260	Homo sapiens
+DP00262	Homo sapiens
+DP00282	Homo sapiens
+DP00287	Homo sapiens
+DP00304	Homo sapiens
+DP00308	Homo sapiens
+DP00309	Homo sapiens
+DP00311	Homo sapiens
+DP00314	Homo sapiens
+DP00319	Homo sapiens
+DP00321	Homo sapiens
+DP00322	Homo sapiens
+DP00323	Homo sapiens
+DP00324	Homo sapiens
+DP00332	Homo sapiens
+DP00333	Homo sapiens
+DP00334	Homo sapiens
+DP00339	Homo sapiens
+DP00343	Homo sapiens
+DP00356	Homo sapiens
+DP00358	Homo sapiens
+DP00363	Homo sapiens
+DP00364	Homo sapiens
+DP00372	Homo sapiens
+DP00378	Homo sapiens
+DP00385	Homo sapiens
+DP00393	Homo sapiens
+DP00418	Homo sapiens
+DP00428	Homo sapiens
+DP00437	Homo sapiens
+DP00443	Homo sapiens
+DP00445	Homo sapiens
+DP00448	Homo sapiens
+DP00457	Homo sapiens
+DP00466	Homo sapiens
+DP00468	Homo sapiens
+DP00472	Homo sapiens
+DP00485	Homo sapiens
+DP00486	Homo sapiens
+DP00506	Homo sapiens
+DP00510	Homo sapiens
+DP00517	Homo sapiens
+DP00521	Homo sapiens
+DP00537	Homo sapiens
+DP00549	Homo sapiens
+DP00551	Homo sapiens
+DP00554	Homo sapiens
+DP00555	Homo sapiens
+DP00565	Homo sapiens
+DP00581	Homo sapiens
+DP00592	Homo sapiens
+DP00608	Homo sapiens
+DP00611	Homo sapiens
+DP00616	Homo sapiens
+DP00621	Homo sapiens
+DP00641	Homo sapiens
+DP00652	Homo sapiens
+DP00666	Homo sapiens
+DP00670	Homo sapiens
+DP00672	Homo sapiens
+DP00678	Homo sapiens
+DP00683	Homo sapiens
+DP00694	Homo sapiens
+DP00696	Homo sapiens
+DP00706	Homo sapiens
+DP00709	Homo sapiens
+DP00718	Homo sapiens
+DP00736	Homo sapiens
+DP00747	Homo sapiens
+DP00748	Homo sapiens
+DP00775	Homo sapiens
+DP00793	Homo sapiens
+DP00794	Homo sapiens
+DP00796	Homo sapiens
+DP00839	Homo sapiens
+DP00841	Homo sapiens
+DP00846	Homo sapiens
+DP00864	Homo sapiens
+DP00865	Homo sapiens
+DP00887	Homo sapiens
+DP00907	Homo sapiens
+DP00912	Homo sapiens
+DP00917	Homo sapiens
+DP00926	Homo sapiens
+DP00930	Homo sapiens
+DP00934	Homo sapiens
+DP00937	Homo sapiens
+DP00949	Homo sapiens
+DP00951	Homo sapiens
+DP00959	Homo sapiens
+DP00969	Homo sapiens
+DP01023	Homo sapiens
+DP01024	Homo sapiens
+DP01054	Homo sapiens
+DP01063	Homo sapiens
+DP01068	Homo sapiens
+DP01070	Homo sapiens
+DP01097	Homo sapiens
+DP01098	Homo sapiens
+DP01099	Homo sapiens
+DP01100	Homo sapiens
+DP01102	Homo sapiens
+DP01103	Homo sapiens
+DP01106	Homo sapiens
+DP01108	Homo sapiens
+DP01110	Homo sapiens
+DP01111	Homo sapiens
+DP01114	Homo sapiens
+DP01115	Homo sapiens
+DP01116	Homo sapiens
+DP01117	Homo sapiens
+DP01118	Homo sapiens
+DP01123	Homo sapiens
+DP01124	Homo sapiens
+DP01128	Homo sapiens
+DP01131	Homo sapiens
+DP01132	Homo sapiens
+DP01133	Homo sapiens
+DP01134	Homo sapiens
+DP01137	Homo sapiens
+DP01149	Homo sapiens
+DP01156	Homo sapiens
+DP01158	Homo sapiens
+DP01159	Homo sapiens
+DP01161	Homo sapiens
+DP01162	Homo sapiens
+DP01163	Homo sapiens
+DP01165	Homo sapiens
+DP01170	Homo sapiens
+DP01171	Homo sapiens
+DP01172	Homo sapiens
+DP01173	Homo sapiens
+DP01174	Homo sapiens
+DP01203	Homo sapiens
+DP01206	Homo sapiens
+DP01224	Homo sapiens
+DP01228	Homo sapiens
+DP01236	Homo sapiens
+DP01239	Homo sapiens
+DP01244	Homo sapiens
+DP01248	Homo sapiens
+DP01253	Homo sapiens
+DP01259	Homo sapiens
+DP01262	Homo sapiens
+DP01269	Homo sapiens
+DP01271	Homo sapiens
+DP01278	Homo sapiens
+DP01279	Homo sapiens
+DP01280	Homo sapiens
+DP01284	Homo sapiens
+DP01288	Homo sapiens
+DP01292	Homo sapiens
+DP01303	Homo sapiens
+DP01306	Homo sapiens
+DP01310	Homo sapiens
+DP01311	Homo sapiens
+DP01312	Homo sapiens
+DP01317	Homo sapiens
+DP01324	Homo sapiens
+DP01326	Homo sapiens
+DP01333	Homo sapiens
+DP01347	Homo sapiens
+DP01361	Homo sapiens
+DP01364	Homo sapiens
+DP01396	Homo sapiens
+DP01400	Homo sapiens
+DP01404	Homo sapiens
+DP01425	Homo sapiens
+DP01426	Homo sapiens
+DP01434	Homo sapiens
+DP01435	Homo sapiens
+DP01441	Homo sapiens
+DP01445	Homo sapiens
+DP01446	Homo sapiens
+DP01447	Homo sapiens
+DP01450	Homo sapiens
+DP01451	Homo sapiens
+DP01453	Homo sapiens
+DP01454	Homo sapiens
+DP01455	Homo sapiens
+DP01456	Homo sapiens
+DP01473	Homo sapiens
+DP01480	Homo sapiens
+DP01484	Homo sapiens
+DP01486	Homo sapiens
+DP01487	Homo sapiens
+DP01489	Homo sapiens
+DP01491	Homo sapiens
+DP01493	Homo sapiens
+DP01506	Homo sapiens
+DP01507	Homo sapiens
+DP01524	Homo sapiens
+DP01526	Homo sapiens
+DP01533	Homo sapiens
+DP01537	Homo sapiens
+DP01551	Homo sapiens
+DP01556	Homo sapiens
+DP01560	Homo sapiens
+DP01561	Homo sapiens
+DP01564	Homo sapiens
+DP01580	Homo sapiens
+DP01588	Homo sapiens
+DP01590	Homo sapiens
+DP01598	Homo sapiens
+DP01602	Homo sapiens
+DP01603	Homo sapiens
+DP01608	Homo sapiens
+DP01619	Homo sapiens
+DP01622	Homo sapiens
+DP01637	Homo sapiens
+DP01640	Homo sapiens
+DP01641	Homo sapiens
+DP01643	Homo sapiens
+DP01644	Homo sapiens
+DP01646	Homo sapiens
+DP01654	Homo sapiens
+DP01662	Homo sapiens
+DP01668	Homo sapiens
+DP01677	Homo sapiens
+DP01700	Homo sapiens
+DP01701	Homo sapiens
+DP01704	Homo sapiens
+DP01705	Homo sapiens
+DP01720	Homo sapiens
+DP01736	Homo sapiens
+DP01738	Homo sapiens
+DP01748	Homo sapiens
+DP01750	Homo sapiens
+DP01757	Homo sapiens
+DP01760	Homo sapiens
+DP01768	Homo sapiens
+DP01772	Homo sapiens
+DP01773	Homo sapiens
+DP01781	Homo sapiens
+DP01782	Homo sapiens
+DP01788	Homo sapiens
+DP01795	Homo sapiens
+DP01804	Homo sapiens
+DP01835	Homo sapiens
+DP01836	Homo sapiens
+DP01841	Homo sapiens
+DP01842	Homo sapiens
+DP01844	Homo sapiens
+DP01845	Homo sapiens
+DP01848	Homo sapiens
+DP01855	Homo sapiens
+DP01857	Homo sapiens
+DP01863	Homo sapiens
+DP01869	Homo sapiens
+DP01872	Homo sapiens
+DP01873	Homo sapiens
+DP01874	Homo sapiens
+DP01877	Homo sapiens
+DP01878	Homo sapiens
+DP01880	Homo sapiens
+DP01883	Homo sapiens
+DP01884	Homo sapiens
+DP01898	Homo sapiens
+DP01907	Homo sapiens
+DP01914	Homo sapiens
+DP01921	Homo sapiens
+DP01925	Homo sapiens
+DP01935	Homo sapiens
+DP01938	Homo sapiens
+DP01942	Homo sapiens
+DP01951	Homo sapiens
+DP01972	Homo sapiens
+DP01976	Homo sapiens
+DP01985	Homo sapiens
+DP02000	Homo sapiens
+DP02009	Homo sapiens
+DP02013	Homo sapiens
+DP02034	Homo sapiens
+DP02069	Homo sapiens
+DP02072	Homo sapiens
+DP02078	Homo sapiens
+DP02094	Homo sapiens
+DP02100	Homo sapiens
+DP02142	Homo sapiens
+DP02148	Homo sapiens
+DP02163	Homo sapiens
+DP02170	Homo sapiens
+DP02171	Homo sapiens
+DP02173	Homo sapiens
+DP02191	Homo sapiens
+DP02192	Homo sapiens
+DP02207	Homo sapiens
+DP02210	Homo sapiens
+DP02224	Homo sapiens
+DP02226	Homo sapiens
+DP02234	Homo sapiens
+DP02247	Homo sapiens
+DP02251	Homo sapiens
+DP02254	Homo sapiens
+DP02267	Homo sapiens
+DP02269	Homo sapiens
+DP02290	Homo sapiens
+DP02292	Homo sapiens
+DP02294	Homo sapiens
+DP02301	Homo sapiens
+DP02302	Homo sapiens
+DP02303	Homo sapiens
+DP02309	Homo sapiens
+DP02327	Homo sapiens
+DP02332	Homo sapiens
+DP02333	Homo sapiens
+DP02346	Homo sapiens
+DP02348	Homo sapiens
+DP02349	Homo sapiens
+DP02361	Homo sapiens
+DP02365	Homo sapiens
+DP02368	Homo sapiens
+DP02381	Homo sapiens
+DP02393	Homo sapiens
+DP02398	Homo sapiens
+DP02399	Homo sapiens
+DP02404	Homo sapiens
+DP02405	Homo sapiens
+DP02408	Homo sapiens
+DP02413	Homo sapiens
+DP02415	Homo sapiens
+DP02418	Homo sapiens
+DP02420	Homo sapiens
+DP02427	Homo sapiens
+DP02428	Homo sapiens
+DP02431	Homo sapiens
+DP02445	Homo sapiens
+DP02446	Homo sapiens
+DP02449	Homo sapiens
+DP02452	Homo sapiens
+DP02455	Homo sapiens
+DP02458	Homo sapiens
+DP02467	Homo sapiens
+DP02471	Homo sapiens
+DP02475	Homo sapiens
+DP02477	Homo sapiens
+DP02523	Homo sapiens
+DP02531	Homo sapiens
+DP02532	Homo sapiens
+DP02543	Homo sapiens
+DP02545	Homo sapiens
+DP02546	Homo sapiens
+DP02547	Homo sapiens
+DP02551	Homo sapiens
+DP02555	Homo sapiens
+DP02558	Homo sapiens
+DP02559	Homo sapiens
+DP02567	Homo sapiens
+DP02571	Homo sapiens
+DP02585	Homo sapiens
+DP02591	Homo sapiens
+DP02595	Homo sapiens
+DP02599	Homo sapiens
+DP02604	Homo sapiens
+DP02605	Homo sapiens
+DP02607	Homo sapiens
+DP02609	Homo sapiens
+DP02615	Homo sapiens
+DP02620	Homo sapiens
+DP02627	Homo sapiens
+DP02628	Homo sapiens
+DP02630	Homo sapiens
+DP02632	Homo sapiens
+DP02637	Homo sapiens
+DP02647	Homo sapiens
+DP02649	Homo sapiens
+DP02656	Homo sapiens
+DP02661	Homo sapiens
+DP02665	Homo sapiens
+DP02670	Homo sapiens
+DP02673	Homo sapiens
+DP02674	Homo sapiens
+DP02675	Homo sapiens
+DP02676	Homo sapiens
+DP02680	Homo sapiens
+DP02692	Homo sapiens
+DP02694	Homo sapiens
+DP02697	Homo sapiens
+DP02699	Homo sapiens
+DP02702	Homo sapiens
+DP02703	Homo sapiens
+DP02704	Homo sapiens
+DP02705	Homo sapiens
+DP02706	Homo sapiens
+DP02712	Homo sapiens
+DP02713	Homo sapiens
+DP02724	Homo sapiens
+DP02727	Homo sapiens
+DP02728	Homo sapiens
+DP02735	Homo sapiens
+DP02737	Homo sapiens
+DP02742	Homo sapiens
+DP02744	Homo sapiens
+DP02747	Homo sapiens
+DP02748	Homo sapiens
+DP02753	Homo sapiens
+DP02757	Homo sapiens
+DP02758	Homo sapiens
+DP02764	Homo sapiens
+DP02765	Homo sapiens
+DP02770	Homo sapiens
+DP02781	Homo sapiens
+DP02782	Homo sapiens
+DP02783	Homo sapiens
+DP02798	Homo sapiens
+DP02803	Homo sapiens
+DP02812	Homo sapiens
+DP02825	Homo sapiens
+DP02829	Homo sapiens
+DP02832	Homo sapiens
+DP02834	Homo sapiens
+DP02835	Homo sapiens
+DP02850	Homo sapiens
+DP02851	Homo sapiens
+DP02854	Homo sapiens
+DP02855	Homo sapiens
+DP02858	Homo sapiens
+DP02860	Homo sapiens
+DP02869	Homo sapiens
+DP02881	Homo sapiens
+DP02885	Homo sapiens
+DP02894	Homo sapiens
+DP02895	Homo sapiens
+DP02904	Homo sapiens
+DP02911	Homo sapiens
+DP02915	Homo sapiens
+DP02918	Homo sapiens
+DP02921	Homo sapiens
+DP02922	Homo sapiens
+DP02930	Homo sapiens
+DP02957	Homo sapiens
+DP02971	Homo sapiens
+DP02975	Homo sapiens
+DP02976	Homo sapiens
+DP02978	Homo sapiens
+DP02981	Homo sapiens
+DP03004	Homo sapiens
+DP03005	Homo sapiens
+DP03006	Homo sapiens
+DP03010	Homo sapiens
+DP03011	Homo sapiens
+DP03012	Homo sapiens
+DP03016	Homo sapiens
+DP03035	Homo sapiens
+DP03039	Homo sapiens
+DP03059	Homo sapiens
+DP03061	Homo sapiens
+DP03063	Homo sapiens
+DP03070	Homo sapiens
+DP03071	Homo sapiens
+DP03072	Homo sapiens
+DP03074	Homo sapiens
+DP03075	Homo sapiens
+DP03081	Homo sapiens
+DP03088	Homo sapiens
+DP03092	Homo sapiens
+DP03098	Homo sapiens
+DP03100	Homo sapiens
+DP03101	Homo sapiens
+DP03104	Homo sapiens
+DP03108	Homo sapiens
+DP03109	Homo sapiens
+DP03113	Homo sapiens
+DP03114	Homo sapiens
+DP03115	Homo sapiens
+DP03116	Homo sapiens
+DP03118	Homo sapiens
+DP03120	Homo sapiens
+DP03123	Homo sapiens
+DP03124	Homo sapiens
+DP03125	Homo sapiens
+DP03134	Homo sapiens
+DP03135	Homo sapiens
+DP03142	Homo sapiens
+DP03148	Homo sapiens
+DP03149	Homo sapiens
+DP03150	Homo sapiens
+DP03151	Homo sapiens
+DP03152	Homo sapiens
+DP03153	Homo sapiens
+DP03161	Homo sapiens
+DP03163	Homo sapiens
+DP03164	Homo sapiens
+DP03166	Homo sapiens
+DP03168	Homo sapiens
+DP03171	Homo sapiens
+DP03172	Homo sapiens
+DP03173	Homo sapiens
+DP03179	Homo sapiens
+DP03185	Homo sapiens
+DP03186	Homo sapiens
+DP03187	Homo sapiens
+DP03190	Homo sapiens
+DP03192	Homo sapiens
+DP03195	Homo sapiens
+DP03196	Homo sapiens
+DP03201	Homo sapiens
+DP03204	Homo sapiens
+DP03205	Homo sapiens
+DP03209	Homo sapiens
+DP03211	Homo sapiens
+DP03214	Homo sapiens
+DP03216	Homo sapiens
+DP03223	Homo sapiens
+DP03232	Homo sapiens
+DP03233	Homo sapiens
+DP03234	Homo sapiens
+DP03235	Homo sapiens
+DP03236	Homo sapiens
+DP03237	Homo sapiens
+DP03242	Homo sapiens
+DP03243	Homo sapiens
+DP03245	Homo sapiens
+DP03246	Homo sapiens
+DP03248	Homo sapiens
+DP03249	Homo sapiens
+DP03251	Homo sapiens
+DP03254	Homo sapiens
+DP03255	Homo sapiens
+DP03257	Homo sapiens
+DP03271	Homo sapiens
+DP03272	Homo sapiens
+DP03273	Homo sapiens
+DP03274	Homo sapiens
+DP03275	Homo sapiens
+DP03278	Homo sapiens
+DP03279	Homo sapiens
+DP03281	Homo sapiens
+DP03291	Homo sapiens
+DP03297	Homo sapiens
+DP03299	Homo sapiens
+DP03301	Homo sapiens
+DP03303	Homo sapiens
+DP03304	Homo sapiens
+DP03306	Homo sapiens
+DP03313	Homo sapiens
+DP03343	Homo sapiens
+DP03345	Homo sapiens
+DP03348	Homo sapiens
+DP03358	Homo sapiens
+DP03364	Homo sapiens
+DP03378	Homo sapiens
+DP03382	Homo sapiens
+DP03383	Homo sapiens
+DP03385	Homo sapiens
+DP03387	Homo sapiens
+DP03389	Homo sapiens
+DP03394	Homo sapiens
+DP03399	Homo sapiens
+DP03400	Homo sapiens
+DP03404	Homo sapiens
+DP03407	Homo sapiens
+DP03417	Homo sapiens
+DP03424	Homo sapiens
+DP03427	Homo sapiens
+DP03444	Homo sapiens
+DP03446	Homo sapiens
+DP03447	Homo sapiens
+DP03448	Homo sapiens
+DP03453	Homo sapiens
+DP03454	Homo sapiens
+DP03459	Homo sapiens
+DP03487	Homo sapiens
+DP03488	Homo sapiens
+DP03499	Homo sapiens
+DP03514	Homo sapiens
+DP03515	Homo sapiens
+DP03531	Homo sapiens
+DP03532	Homo sapiens
+DP03554	Homo sapiens
+DP03556	Homo sapiens
+DP03588	Homo sapiens
+DP03594	Homo sapiens
+DP03624	Homo sapiens
+DP03626	Homo sapiens
+DP03635	Homo sapiens
+DP03637	Homo sapiens
+DP03645	Homo sapiens
+DP03649	Homo sapiens
+DP03654	Homo sapiens
+DP03659	Homo sapiens
+DP03660	Homo sapiens
+DP03661	Homo sapiens
+DP03666	Homo sapiens
+DP03669	Homo sapiens
+DP03670	Homo sapiens
+DP03680	Homo sapiens
+DP03681	Homo sapiens
+DP03687	Homo sapiens
+DP03692	Homo sapiens
+DP03693	Homo sapiens
+DP03700	Homo sapiens
+DP03701	Homo sapiens
+DP03703	Homo sapiens
+DP03704	Homo sapiens
+DP03706	Homo sapiens
+DP03713	Homo sapiens
+DP03719	Homo sapiens
+DP03730	Homo sapiens
+DP03733	Homo sapiens
+DP03734	Homo sapiens
+DP03737	Homo sapiens
+DP03739	Homo sapiens
+DP03743	Homo sapiens
+DP03755	Homo sapiens
+DP03805	Homo sapiens
+DP03811	Homo sapiens
+DP03816	Homo sapiens
+DP03817	Homo sapiens
+DP03820	Homo sapiens
+DP03821	Homo sapiens
+DP03823	Homo sapiens
+DP03830	Homo sapiens
+DP03832	Homo sapiens
+DP03835	Homo sapiens
+DP03836	Homo sapiens
+DP03837	Homo sapiens
+DP03838	Homo sapiens
+DP03839	Homo sapiens
+DP03841	Homo sapiens
+DP03842	Homo sapiens
+DP03843	Homo sapiens
+DP03847	Homo sapiens
+DP03848	Homo sapiens
+DP03849	Homo sapiens
+DP03854	Homo sapiens
+DP03860	Homo sapiens
+DP03861	Homo sapiens
+DP03862	Homo sapiens
+DP03864	Homo sapiens
+DP03865	Homo sapiens
+DP03867	Homo sapiens
+DP03868	Homo sapiens
+DP03869	Homo sapiens
+DP03872	Homo sapiens
+DP03874	Homo sapiens
+DP03875	Homo sapiens
+DP03876	Homo sapiens
+DP03878	Homo sapiens
+DP03884	Homo sapiens
+DP03889	Homo sapiens
+DP03890	Homo sapiens
+DP03891	Homo sapiens
+DP03892	Homo sapiens
+DP03894	Homo sapiens
+DP03896	Homo sapiens
+DP03917	Homo sapiens
+DP03919	Homo sapiens
+DP03922	Homo sapiens
+DP03926	Homo sapiens
+DP03944	Homo sapiens
+DP03945	Homo sapiens
+DP03955	Homo sapiens
+DP03956	Homo sapiens
+DP03958	Homo sapiens
+DP03959	Homo sapiens
+DP03960	Homo sapiens
+DP03962	Homo sapiens
+DP03963	Homo sapiens
+DP03965	Homo sapiens
+DP03966	Homo sapiens
+DP03968	Homo sapiens
+DP03969	Homo sapiens
+DP03970	Homo sapiens
+DP03971	Homo sapiens
+DP03975	Homo sapiens
+DP03977	Homo sapiens
+DP03991	Homo sapiens
+DP04067	Homo sapiens
+DP04070	Homo sapiens
+DP04074	Homo sapiens
+DP04076	Homo sapiens
+DP04077	Homo sapiens
+DP04081	Homo sapiens
+DP04082	Homo sapiens
+DP04086	Homo sapiens
+DP04093	Homo sapiens
+DP04095	Homo sapiens
+DP04100	Homo sapiens
+DP04107	Homo sapiens
+DP04108	Homo sapiens
+DP04109	Homo sapiens
+DP04111	Homo sapiens
+DP04117	Homo sapiens
+DP04119	Homo sapiens
+DP04123	Homo sapiens
+DP04135	Homo sapiens
+DP04137	Homo sapiens
+DP00111	Mus musculus
+DP00142	Mus musculus
+DP00181	Mus musculus
+DP00291	Mus musculus
+DP00335	Mus musculus
+DP00340	Mus musculus
+DP00341	Mus musculus
+DP00384	Mus musculus
+DP00397	Mus musculus
+DP00435	Mus musculus
+DP00446	Mus musculus
+DP00491	Mus musculus
+DP00541	Mus musculus
+DP00564	Mus musculus
+DP00587	Mus musculus
+DP00645	Mus musculus
+DP00646	Mus musculus
+DP00655	Mus musculus
+DP00708	Mus musculus
+DP00734	Mus musculus
+DP00742	Mus musculus
+DP00836	Mus musculus
+DP00968	Mus musculus
+DP00974	Mus musculus
+DP01101	Mus musculus
+DP01183	Mus musculus
+DP01304	Mus musculus
+DP01315	Mus musculus
+DP01316	Mus musculus
+DP01397	Mus musculus
+DP01492	Mus musculus
+DP01541	Mus musculus
+DP01548	Mus musculus
+DP01562	Mus musculus
+DP01563	Mus musculus
+DP01578	Mus musculus
+DP01594	Mus musculus
+DP01645	Mus musculus
+DP01667	Mus musculus
+DP01752	Mus musculus
+DP01774	Mus musculus
+DP01794	Mus musculus
+DP01879	Mus musculus
+DP01944	Mus musculus
+DP01993	Mus musculus
+DP02258	Mus musculus
+DP02296	Mus musculus
+DP02342	Mus musculus
+DP02369	Mus musculus
+DP02371	Mus musculus
+DP02376	Mus musculus
+DP02387	Mus musculus
+DP02412	Mus musculus
+DP02423	Mus musculus
+DP02478	Mus musculus
+DP02517	Mus musculus
+DP02534	Mus musculus
+DP02573	Mus musculus
+DP02579	Mus musculus
+DP02586	Mus musculus
+DP02593	Mus musculus
+DP02613	Mus musculus
+DP02621	Mus musculus
+DP02625	Mus musculus
+DP02626	Mus musculus
+DP02635	Mus musculus
+DP02636	Mus musculus
+DP02638	Mus musculus
+DP02672	Mus musculus
+DP02679	Mus musculus
+DP02681	Mus musculus
+DP02683	Mus musculus
+DP02756	Mus musculus
+DP02790	Mus musculus
+DP02791	Mus musculus
+DP02792	Mus musculus
+DP02800	Mus musculus
+DP02802	Mus musculus
+DP02805	Mus musculus
+DP02811	Mus musculus
+DP02817	Mus musculus
+DP02819	Mus musculus
+DP02820	Mus musculus
+DP02853	Mus musculus
+DP02874	Mus musculus
+DP02896	Mus musculus
+DP02898	Mus musculus
+DP03007	Mus musculus
+DP03014	Mus musculus
+DP03067	Mus musculus
+DP03127	Mus musculus
+DP03156	Mus musculus
+DP03174	Mus musculus
+DP03177	Mus musculus
+DP03197	Mus musculus
+DP03277	Mus musculus
+DP03305	Mus musculus
+DP03310	Mus musculus
+DP03368	Mus musculus
+DP03411	Mus musculus
+DP03420	Mus musculus
+DP03625	Mus musculus
+DP03695	Mus musculus
+DP03735	Mus musculus
+DP00474	Arabidopsis thaliana
+DP00606	Arabidopsis thaliana
+DP00609	Arabidopsis thaliana
+DP00654	Arabidopsis thaliana
+DP00662	Arabidopsis thaliana
+DP00667	Arabidopsis thaliana
+DP00689	Arabidopsis thaliana
+DP00916	Arabidopsis thaliana
+DP01057	Arabidopsis thaliana
+DP01085	Arabidopsis thaliana
+DP01121	Arabidopsis thaliana
+DP01299	Arabidopsis thaliana
+DP01300	Arabidopsis thaliana
+DP01467	Arabidopsis thaliana
+DP01543	Arabidopsis thaliana
+DP01545	Arabidopsis thaliana
+DP01858	Arabidopsis thaliana
+DP02066	Arabidopsis thaliana
+DP02209	Arabidopsis thaliana
+DP02380	Arabidopsis thaliana
+DP02392	Arabidopsis thaliana
+DP02550	Arabidopsis thaliana
+DP02575	Arabidopsis thaliana
+DP02576	Arabidopsis thaliana
+DP02577	Arabidopsis thaliana
+DP02597	Arabidopsis thaliana
+DP02631	Arabidopsis thaliana
+DP02640	Arabidopsis thaliana
+DP02641	Arabidopsis thaliana
+DP02642	Arabidopsis thaliana
+DP02644	Arabidopsis thaliana
+DP02696	Arabidopsis thaliana
+DP02726	Arabidopsis thaliana
+DP02919	Arabidopsis thaliana
+DP02920	Arabidopsis thaliana
+DP02966	Arabidopsis thaliana
+DP02969	Arabidopsis thaliana
+DP03093	Arabidopsis thaliana
+DP03096	Arabidopsis thaliana
+DP03110	Arabidopsis thaliana
+DP03136	Arabidopsis thaliana
+DP03137	Arabidopsis thaliana
+DP03139	Arabidopsis thaliana
+DP03263	Arabidopsis thaliana
+DP03265	Arabidopsis thaliana
+DP03266	Arabidopsis thaliana
+DP03268	Arabidopsis thaliana
+DP03270	Arabidopsis thaliana
+DP03282	Arabidopsis thaliana
+DP03285	Arabidopsis thaliana
+DP03325	Arabidopsis thaliana
+DP03648	Arabidopsis thaliana
+DP03652	Arabidopsis thaliana
+DP03653	Arabidopsis thaliana
+DP03674	Arabidopsis thaliana
+DP03675	Arabidopsis thaliana
+DP01113	Caenorhabditis elegans
+DP01407	Caenorhabditis elegans
+DP01436	Caenorhabditis elegans
+DP01973	Caenorhabditis elegans
+DP02025	Caenorhabditis elegans
+DP02377	Caenorhabditis elegans
+DP02378	Caenorhabditis elegans
+DP02799	Caenorhabditis elegans
+DP02982	Caenorhabditis elegans
+DP02988	Caenorhabditis elegans
+DP02989	Caenorhabditis elegans
+DP02990	Caenorhabditis elegans
+DP02991	Caenorhabditis elegans
+DP02999	Caenorhabditis elegans
+DP03049	Caenorhabditis elegans
+DP03050	Caenorhabditis elegans
+DP03054	Caenorhabditis elegans
+DP03057	Caenorhabditis elegans
+DP03090	Caenorhabditis elegans
+DP03102	Caenorhabditis elegans
+DP03107	Caenorhabditis elegans
+DP03217	Caenorhabditis elegans
+DP03218	Caenorhabditis elegans
+DP03219	Caenorhabditis elegans
+DP03318	Caenorhabditis elegans
+DP03319	Caenorhabditis elegans
+DP03322	Caenorhabditis elegans
+DP03334	Caenorhabditis elegans
+DP03340	Caenorhabditis elegans
+DP03472	Caenorhabditis elegans
+DP00081	Drosophila melanogaster
+DP00269	Drosophila melanogaster
+DP00344	Drosophila melanogaster
+DP00346	Drosophila melanogaster
+DP00605	Drosophila melanogaster
+DP00623	Drosophila melanogaster
+DP00721	Drosophila melanogaster
+DP00811	Drosophila melanogaster
+DP01122	Drosophila melanogaster
+DP01250	Drosophila melanogaster
+DP01433	Drosophila melanogaster
+DP01494	Drosophila melanogaster
+DP01495	Drosophila melanogaster
+DP01497	Drosophila melanogaster
+DP01546	Drosophila melanogaster
+DP01870	Drosophila melanogaster
+DP02149	Drosophila melanogaster
+DP02312	Drosophila melanogaster
+DP02384	Drosophila melanogaster
+DP02460	Drosophila melanogaster
+DP02556	Drosophila melanogaster
+DP02662	Drosophila melanogaster
+DP02711	Drosophila melanogaster
+DP02763	Drosophila melanogaster
+DP02836	Drosophila melanogaster
+DP02866	Drosophila melanogaster
+DP02890	Drosophila melanogaster
+DP03066	Drosophila melanogaster
+DP03083	Drosophila melanogaster
+DP03483	Drosophila melanogaster
+DP03708	Drosophila melanogaster
+DP03744	Drosophila melanogaster
+DP04061	Drosophila melanogaster
+DP00089	Escherichia coli (strain K12)
+DP00103	Escherichia coli (strain K12)
+DP00107	Escherichia coli (strain K12)
+DP00147	Escherichia coli (strain K12)
+DP00161	Escherichia coli (strain K12)
+DP00194	Escherichia coli (strain K12)
+DP00197	Escherichia coli (strain K12)
+DP00207	Escherichia coli (strain K12)
+DP00299	Escherichia coli (strain K12)
+DP00349	Escherichia coli (strain K12)
+DP00377	Escherichia coli (strain K12)
+DP00422	Escherichia coli (strain K12)
+DP00429	Escherichia coli (strain K12)
+DP00516	Escherichia coli (strain K12)
+DP00600	Escherichia coli (strain K12)
+DP00626	Escherichia coli (strain K12)
+DP00766	Escherichia coli (strain K12)
+DP00790	Escherichia coli (strain K12)
+DP00896	Escherichia coli (strain K12)
+DP00970	Escherichia coli (strain K12)
+DP00991	Escherichia coli (strain K12)
+DP01050	Escherichia coli (strain K12)
+DP01177	Escherichia coli (strain K12)
+DP01291	Escherichia coli (strain K12)
+DP01339	Escherichia coli (strain K12)
+DP01488	Escherichia coli (strain K12)
+DP01650	Escherichia coli (strain K12)
+DP01735	Escherichia coli (strain K12)
+DP01740	Escherichia coli (strain K12)
+DP01881	Escherichia coli (strain K12)
+DP01920	Escherichia coli (strain K12)
+DP01965	Escherichia coli (strain K12)
+DP02011	Escherichia coli (strain K12)
+DP02127	Escherichia coli (strain K12)
+DP02169	Escherichia coli (strain K12)
+DP02197	Escherichia coli (strain K12)
+DP02201	Escherichia coli (strain K12)
+DP02271	Escherichia coli (strain K12)
+DP02484	Escherichia coli (strain K12)
+DP02537	Escherichia coli (strain K12)
+DP02548	Escherichia coli (strain K12)
+DP02700	Escherichia coli (strain K12)
+DP02715	Escherichia coli (strain K12)
+DP02716	Escherichia coli (strain K12)
+DP02740	Escherichia coli (strain K12)
+DP02750	Escherichia coli (strain K12)
+DP02760	Escherichia coli (strain K12)
+DP02787	Escherichia coli (strain K12)
+DP02827	Escherichia coli (strain K12)
+DP02899	Escherichia coli (strain K12)
+DP02900	Escherichia coli (strain K12)
+DP02923	Escherichia coli (strain K12)
+DP02985	Escherichia coli (strain K12)
+DP03060	Escherichia coli (strain K12)
+DP03091	Escherichia coli (strain K12)
+DP03193	Escherichia coli (strain K12)
+DP03213	Escherichia coli (strain K12)
+DP03240	Escherichia coli (strain K12)
+DP03289	Escherichia coli (strain K12)
+DP03316	Escherichia coli (strain K12)
+DP03326	Escherichia coli (strain K12)
+DP03329	Escherichia coli (strain K12)
+DP03331	Escherichia coli (strain K12)
+DP03333	Escherichia coli (strain K12)
+DP03337	Escherichia coli (strain K12)
+DP03341	Escherichia coli (strain K12)
+DP03406	Escherichia coli (strain K12)
+DP03440	Escherichia coli (strain K12)
+DP03445	Escherichia coli (strain K12)
+DP03449	Escherichia coli (strain K12)
+DP03458	Escherichia coli (strain K12)
+DP03495	Escherichia coli (strain K12)
+DP03501	Escherichia coli (strain K12)
+DP03631	Escherichia coli (strain K12)
+DP03662	Escherichia coli (strain K12)
+DP03852	Escherichia coli (strain K12)
+DP00031	Rattus norvegicus
+DP00049	Rattus norvegicus
+DP00068	Rattus norvegicus
+DP00094	Rattus norvegicus
+DP00136	Rattus norvegicus
+DP00251	Rattus norvegicus
+DP00455	Rattus norvegicus
+DP00463	Rattus norvegicus
+DP00490	Rattus norvegicus
+DP00527	Rattus norvegicus
+DP00620	Rattus norvegicus
+DP00622	Rattus norvegicus
+DP00940	Rattus norvegicus
+DP01083	Rattus norvegicus
+DP01139	Rattus norvegicus
+DP01141	Rattus norvegicus
+DP01202	Rattus norvegicus
+DP01499	Rattus norvegicus
+DP01501	Rattus norvegicus
+DP01555	Rattus norvegicus
+DP01557	Rattus norvegicus
+DP01851	Rattus norvegicus
+DP01887	Rattus norvegicus
+DP01937	Rattus norvegicus
+DP01958	Rattus norvegicus
+DP01994	Rattus norvegicus
+DP02535	Rattus norvegicus
+DP02617	Rattus norvegicus
+DP02624	Rattus norvegicus
+DP02646	Rattus norvegicus
+DP02653	Rattus norvegicus
+DP02657	Rattus norvegicus
+DP02739	Rattus norvegicus
+DP02741	Rattus norvegicus
+DP02793	Rattus norvegicus
+DP02887	Rattus norvegicus
+DP02986	Rattus norvegicus
+DP03052	Rattus norvegicus
+DP03080	Rattus norvegicus
+DP03129	Rattus norvegicus
+DP03227	Rattus norvegicus
+DP03347	Rattus norvegicus
+DP03354	Rattus norvegicus
+DP03477	Rattus norvegicus
+DP03492	Rattus norvegicus
+DP03507	Rattus norvegicus
+DP00082	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00104	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00135	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00163	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00164	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00179	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00256	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00277	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00398	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00432	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00475	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00482	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00533	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00557	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00625	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00687	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00705	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00771	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00818	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00853	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00874	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00958	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP00995	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01014	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01077	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01078	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01079	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01136	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01185	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01195	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01196	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01237	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01243	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01330	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01401	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01430	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01485	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01502	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01503	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01511	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01513	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01516	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01579	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01584	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01599	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01604	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01606	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01611	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01628	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01629	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01775	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01825	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP01867	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02050	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02055	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02073	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02097	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02124	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02144	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02145	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02155	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02157	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02158	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02159	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02195	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02220	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02227	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02249	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02264	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02326	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02355	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02395	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02448	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02464	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02466	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02470	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02474	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02476	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02480	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02481	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02513	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02527	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02544	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02671	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02721	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02722	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02736	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02752	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02769	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02784	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02806	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02809	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02847	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02848	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP02908	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03226	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03494	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03496	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03548	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03591	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03595	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03597	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03620	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03621	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03633	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03684	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03689	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03715	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03716	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03717	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+DP03718	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
