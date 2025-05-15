@@ -46,7 +46,7 @@ def disorderToString(disorderPredictor):
 def extractSequences(testSet, threshold, outfile):
     try:
         fasta_sequences = SeqIO.parse(open(testSet), 'fasta')
-        conn = sqlite3.connect('../repeats/repeats31.db')
+        conn = sqlite3.connect('../repeats/repeatsDNA.db')
         cursor = conn.cursor()
         print("Database created and Successfully Connected to SQLite")
 
@@ -63,7 +63,7 @@ def extractSequences(testSet, threshold, outfile):
                 continue
             for n in range(3, seq_len + 1):
                 for i in range(seq_len - n + 1):     
-                    cursor.execute('SELECT d, i, o FROM repeatMap3 WHERE SEQUENCE = ?', (sequence[i:i + n],))
+                    cursor.execute('SELECT d, i, o FROM repeatMap WHERE SEQUENCE = ?', (sequence[i:i + n],))
                     records = cursor.fetchone()    
                     processResults(records, threshold, i, n + i, disorderPredictor, f, name)
             
@@ -83,4 +83,4 @@ def extractSequences(testSet, threshold, outfile):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet2.fasta")
-extractSequences("../testSets/testSet3.fasta", 0.30, "../results/resultRepeats3.txt")
+extractSequences("../testSets/testSetTrimmed.fasta", 0.30, "../results/resultDNARepeats.txt")

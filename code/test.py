@@ -17,7 +17,7 @@ def calculate_initial_hash(s: str, window_size: int, base: int = 31, mod: int = 
         current_hash = (current_hash * base + ord(s[i])) % mod
     return current_hash
 
-def processResults(records, threshold, i, n, disorderPredictor):
+def processResults(records, threshold, i, n, disorderPredictor, f, id):
     if not records:
         return
     numInstances = records[0] + records[1] + records[2]
@@ -25,8 +25,10 @@ def processResults(records, threshold, i, n, disorderPredictor):
     intersectPercentage = float(records[1]/numInstances)
     orderPercentage = float(records[2]/numInstances)
 
+    # IMA DOSTA NISKI SA DISORDER % PREKO 80% 
     mostFrequent = max(disorderPercentage, intersectPercentage, orderPercentage)
     if disorderPercentage == mostFrequent and disorderPercentage >= threshold:
+        f.write(id + ": " + str(i) + " - " + str(n) + "\n")
         for j in range(i, n):
             disorderPredictor[j][0] += 1
     elif orderPercentage == mostFrequent and orderPercentage >= threshold:
@@ -76,7 +78,7 @@ def extractSequences(testSet, threshold, outfile):
                     cursor.execute('SELECT d, i, o FROM sequenceMap WHERE SEQUENCE = ?', (current_hash,))
                     records = cursor.fetchone()
 
-                    processResults(records, threshold, 0, n, disorderPredictor)
+                    processResults(records, threshold, 0, n, disorderPredictor, f, name)
                     
                     # Sliding window with rolling hash
                     for i in range(1, seq_len - n + 1):
@@ -84,11 +86,11 @@ def extractSequences(testSet, threshold, outfile):
                         cursor.execute('SELECT d, i, o FROM sequenceMap WHERE SEQUENCE = ?', (current_hash,))
                         records = cursor.fetchone()
                         
-                        processResults(records, threshold, i, n + i, disorderPredictor)
+                        processResults(records, threshold, i, n + i, disorderPredictor, f, name)
             #print(disorderPredictor)
-            res = disorderToString(disorderPredictor) 
+            #res = disorderToString(disorderPredictor) 
             disorderPredictor.clear() 
-            f.write(name + " " + res + "\n")
+            #f.write(name + " " + res + "\n")
         f.close()          
             
         cursor.close()  # Close the cursor explicitly
@@ -101,4 +103,4 @@ def extractSequences(testSet, threshold, outfile):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet1.fasta")
-extractSequences("../testSets/testSet2.fasta", 0.30, "../results/results2.txt")
+extractSequences("../testSets/testSet2.fasta", 0.80, "../results/proba2.txt")

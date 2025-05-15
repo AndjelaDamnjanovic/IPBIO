@@ -58,9 +58,9 @@ def extractSequences(testSet, threshold, outfile):
             name, sequence = fasta.id, str(fasta.seq)
             disorderPredictor = [[0, 0, 0] for i in range(len(sequence))]
             seq_len = len(sequence)
-            print(name)
-            if name == "DP00072":
+            if name != "DP00072":
                 continue
+            print(name)
             for n in range(3, seq_len + 1):
                 for i in range(seq_len - n + 1):     
                     cursor.execute('SELECT d, i, o FROM repeatMap3 WHERE SEQUENCE = ?', (sequence[i:i + n],))
@@ -83,4 +83,4 @@ def extractSequences(testSet, threshold, outfile):
         print("The SQLite connection is closed") 
 
 #extractSequences("../testSets/testSet2.fasta")
-extractSequences("../testSets/testSet3.fasta", 0.30, "../results/resultRepeats3.txt")
+extractSequences("../testSets/testSet3.fasta", 0.30, "../results/resultRepeats723.txt")
