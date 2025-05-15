@@ -1,11 +1,3 @@
-Input file is trainSetTrimmed.fasta.
-Minimal fragment length is 3.
-Working with probability estimation.
-P value is : 0.050000.
-Printing all instances.
-Looking for direct complementary repeats.
-NM_074174.3 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_074174.3,91,94,121,124,4,AAGA,TTCT
 NM_074174.3,91,94,141,144,4,AAGA,TTCT
 NM_074174.3,91,94,100,103,4,AAGA,TTCT
@@ -309,14 +301,6 @@ NM_074174.3,2,4,53,55,3,TGC,ACG
 NM_074174.3,150,152,155,157,3,TGC,ACG
 NM_074174.3,18,20,155,157,3,TGC,ACG
 NM_074174.3,38,41,91,94,4,TTCT,AAGA
-
-Total for length 3 is 242.
-Total for length 4 is 50.
-Total for length 5 is 9.
-Total for length 8 is 2.
-
-NM_066915.4 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_066915.4,376,380,420,424,5,AAGAC,TTCTG
 NM_066915.4,253,257,420,424,5,AAGAC,TTCTG
 NM_066915.4,376,378,398,400,3,AAG,TTC
@@ -927,15 +911,6 @@ NM_066915.4,184,186,376,378,3,TTC,AAG
 NM_066915.4,283,285,376,378,3,TTC,AAG
 NM_066915.4,295,297,376,378,3,TTC,AAG
 NM_066915.4,268,270,376,378,3,TTC,AAG
-
-Total for length 3 is 499.
-Total for length 4 is 83.
-Total for length 5 is 18.
-Total for length 6 is 8.
-Total for length 7 is 2.
-
-NM_075619.6 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_075619.6,69,72,328,331,4,AAAC,TTTG
 NM_075619.6,69,72,82,85,4,AAAC,TTTG
 NM_075619.6,303,306,347,350,4,AAAG,TTTC
@@ -2568,15 +2543,6 @@ NM_075619.6,328,331,333,336,4,TTTG,AAAC
 NM_075619.6,328,331,462,465,4,TTTG,AAAC
 NM_075619.6,63,66,69,72,4,TTTG,AAAC
 NM_075619.6,18,21,69,72,4,TTTG,AAAC
-
-Total for length 3 is 1329.
-Total for length 4 is 252.
-Total for length 5 is 26.
-Total for length 6 is 19.
-Total for length 8 is 6.
-
-NM_062602.2 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_062602.2,66,70,392,396,5,AAAAA,TTTTT
 NM_062602.2,67,71,392,396,5,AAAAA,TTTTT
 NM_062602.2,335,339,392,396,5,AAAAA,TTTTT
@@ -3635,15 +3601,6 @@ NM_062602.2,328,330,457,459,3,TTC,AAG
 NM_062602.2,287,291,440,444,5,TTGTT,AACAA
 NM_062602.2,287,291,473,477,5,TTGTT,AACAA
 NM_062602.2,394,398,472,476,5,TTTGT,AAACA
-
-Total for length 3 is 908.
-Total for length 4 is 117.
-Total for length 5 is 31.
-Total for length 9 is 1.
-Total for length 10 is 1.
-
-NM_073966.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_073966.1,197,202,270,275,6,AAAGTT,TTTCAA
 NM_073966.1,96,99,600,603,4,AAAG,TTTC
 NM_073966.1,57,60,600,603,4,AAAG,TTTC
@@ -5185,14 +5142,6 @@ NM_073966.1,46,49,205,208,4,TTTC,AAAG
 NM_073966.1,46,49,324,327,4,TTTC,AAAG
 NM_073966.1,46,49,567,570,4,TTTC,AAAG
 NM_073966.1,270,273,357,360,4,TTTC,AAAG
-
-Total for length 3 is 1346.
-Total for length 4 is 147.
-Total for length 5 is 42.
-Total for length 6 is 6.
-
-NM_001179624.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001179624.1,36,38,318,320,3,AAG,TTC
 NM_001179624.1,93,97,233,237,5,AATAG,TTATC
 NM_001179624.1,49,53,233,237,5,AATAG,TTATC
@@ -5398,12 +5347,6 @@ NM_001179624.1,153,157,243,247,5,TTTAA,AAATT
 NM_001179624.1,75,79,243,247,5,TTTAA,AAATT
 NM_001179624.1,231,235,242,246,5,TTTTA,AAAAT
 NM_001179624.1,119,123,242,246,5,TTTTA,AAAAT
-
-Total for length 3 is 183.
-Total for length 5 is 22.
-
-NM_001178175.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001178175.1,23,30,119,126,8,ACCCTTAT,TGGGAATA
 NM_001178175.1,115,117,119,121,3,ACC,TGG
 NM_001178175.1,197,199,256,258,3,ACC,TGG
@@ -5602,14 +5545,6 @@ NM_001178175.1,30,32,172,174,3,TGC,ACG
 NM_001178175.1,119,121,197,199,3,TGG,ACC
 NM_001178175.1,292,297,318,323,6,TTAGTA,AATCAT
 NM_001178175.1,292,297,297,302,6,TTAGTA,AATCAT
-
-Total for length 3 is 157.
-Total for length 4 is 37.
-Total for length 6 is 2.
-Total for length 8 is 2.
-
-NM_001182680.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001182680.1,19,21,87,89,3,AAA,TTT
 NM_001182680.1,45,47,87,89,3,AAA,TTT
 NM_001182680.1,69,71,87,89,3,AAA,TTT
@@ -5661,11 +5596,6 @@ NM_001182680.1,105,107,142,144,3,TCA,AGT
 NM_001182680.1,43,45,103,105,3,TCA,AGT
 NM_001182680.1,36,38,75,77,3,TCA,AGT
 NM_001182680.1,36,38,79,81,3,TCA,AGT
-
-Total for length 3 is 51.
-
-NM_001181829.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001181829.1,32,34,74,76,3,AAA,TTT
 NM_001181829.1,164,166,187,189,3,AAG,TTC
 NM_001181829.1,29,31,187,189,3,AAG,TTC
@@ -5744,12 +5674,6 @@ NM_001181829.1,187,189,198,200,3,TTC,AAG
 NM_001181829.1,115,117,125,127,3,TTC,AAG
 NM_001181829.1,115,117,164,166,3,TTC,AAG
 NM_001181829.1,148,150,164,166,3,TTC,AAG
-
-Total for length 3 is 56.
-Total for length 4 is 22.
-
-NM_001184149.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001184149.1,30,33,274,277,4,AACC,TTGG
 NM_001184149.1,30,33,163,166,4,AACC,TTGG
 NM_001184149.1,17,20,274,277,4,AACC,TTGG
@@ -5882,12 +5806,6 @@ NM_001184149.1,120,122,172,174,3,TTC,AAG
 NM_001184149.1,120,122,199,201,3,TTC,AAG
 NM_001184149.1,120,122,253,255,3,TTC,AAG
 NM_001184149.1,91,93,157,159,3,TTC,AAG
-
-Total for length 3 is 103.
-Total for length 4 is 29.
-
-NM_001184438.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001184438.1,53,55,159,161,3,AAA,TTT
 NM_001184438.1,52,54,159,161,3,AAA,TTT
 NM_001184438.1,53,55,141,143,3,AAA,TTT
@@ -5936,13 +5854,6 @@ NM_001184438.1,41,43,146,148,3,TCT,AGA
 NM_001184438.1,85,87,146,148,3,TCT,AGA
 NM_001184438.1,72,76,139,143,5,TGAAA,ACTTT
 NM_001184438.1,105,109,148,152,5,TTCTC,AAGAG
-
-Total for length 3 is 41.
-Total for length 5 is 6.
-Total for length 8 is 1.
-
-NM_001179273.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001179273.1,30,33,117,120,4,AAAT,TTTA
 NM_001179273.1,109,112,117,120,4,AAAT,TTTA
 NM_001179273.1,30,33,33,36,4,AAAT,TTTA
@@ -6090,13 +6001,6 @@ NM_001179273.1,102,104,203,205,3,TTC,AAG
 NM_001179273.1,102,104,172,174,3,TTC,AAG
 NM_001179273.1,79,82,126,129,4,TTGA,AACT
 NM_001179273.1,90,92,126,128,3,TTG,AAC
-
-Total for length 3 is 124.
-Total for length 4 is 20.
-Total for length 5 is 3.
-
-NM_001180463.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001180463.1,49,51,152,154,3,AAC,TTG
 NM_001180463.1,86,88,152,154,3,AAC,TTG
 NM_001180463.1,21,23,152,154,3,AAC,TTG
@@ -6623,14 +6527,6 @@ NM_001180463.1,116,118,289,291,3,TTC,AAG
 NM_001180463.1,152,154,229,231,3,TTG,AAC
 NM_001180463.1,152,154,184,186,3,TTG,AAC
 NM_001180463.1,152,154,241,243,3,TTG,AAC
-
-Total for length 3 is 436.
-Total for length 4 is 73.
-Total for length 5 is 13.
-Total for length 6 is 4.
-
-NM_001178771.1 Alphabet size is 4.
-Input sequence has 0 letters that are not in expected alphabet.
 NM_001178771.1,15,17,39,41,3,AAA,TTT
 NM_001178771.1,109,111,293,295,3,AAC,TTG
 NM_001178771.1,47,49,238,240,3,AAC,TTG
@@ -6847,7 +6743,3 @@ NM_001178771.1,40,42,308,310,3,TTG,AAC
 NM_001178771.1,40,42,101,103,3,TTG,AAC
 NM_001178771.1,40,42,207,209,3,TTG,AAC
 NM_001178771.1,40,42,86,88,3,TTG,AAC
-
-Total for length 3 is 214.
-Total for length 6 is 2.
-
